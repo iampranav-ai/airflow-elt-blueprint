@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "image": "mcr.microsoft.com/devcontainers/universal:latest",
   "features": {
       "ghcr.io/astronomer/devcontainer-features/astro-cli:1": {
         "version": "latest"
